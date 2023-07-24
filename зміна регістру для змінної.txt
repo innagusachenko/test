@@ -1,0 +1,4 @@
+a = input("Введіть ваше ім'я ")
+print(a)
+b = a[0]
+print(b.upper()+a[1:])
